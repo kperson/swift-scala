@@ -12,7 +12,7 @@ This is not an exhaustive guide of Scala or Swift.  Both languages have unique f
  - extensions/implicit classes
  - aliases
 
- ### Coming Soon
+### Coming Soon
  - pattern matching
  - concurrency with futures and promises (FSwift)
  - values and reference types
