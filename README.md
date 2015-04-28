@@ -11,6 +11,7 @@ This is not an exhaustive guide of Scala or Swift.  Both languages have unique f
  - enumerations
  - extensions/implicit classes
  - aliases
+ - classes
 
 ### Coming Soon
  - pattern matching
